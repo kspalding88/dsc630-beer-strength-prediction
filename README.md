@@ -1,4 +1,4 @@
-# [DSC630] Predicting Beer Strength (ABV) from Sensory & Beer Characteristics
+# Predicting Beer Strength (ABV) from Sensory & Beer Characteristics
 
 ## Overview
 This project builds and compares regression models to predict **beer strength (ABV)** using **sensory review scores** and **beer characteristics**. Multiple predictor variables—such as **Style**, **Body**, **Malty**, and **IBU range**—are used to model ABV. Two regression models are compared:
